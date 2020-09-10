@@ -1,0 +1,11 @@
+.block{
+    height: 50px;
+    width: 200px;
+    display: inline-block;
+    background-color: #008080;
+}
+.paspausk{
+    float:none;
+    text-align: center;
+    height: 50px;
+}
